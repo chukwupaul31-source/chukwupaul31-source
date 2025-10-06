@@ -41,7 +41,7 @@ I enjoy Solving Problems, simplifying data processes, and creating dashboards th
 
 ## 💼**Professional Experience**
 
-### **Tech Innovation Network** — *Data Analyst*
+## **Tech Innovation Network** — *Data Analyst*
 
 - Collected and analyzed business data to identify key performance trends.
 
@@ -50,7 +50,7 @@ I enjoy Solving Problems, simplifying data processes, and creating dashboards th
 - Helped management teams make better, data-based business decisions.
 
 
-###  **Chipnet Technology** — *Data Analytics Instructor* *(Present)*
+## **Chipnet Technology** — *Data Analytics Instructor* *(Present)*
 
 - Teaching students how to use Excel, Power BI, and Python for real data projects.
 
@@ -59,7 +59,7 @@ I enjoy Solving Problems, simplifying data processes, and creating dashboards th
 - Helping build a new generation of data-driven professionals.
 
 
-###  **Willarburg Institute of Technology** — *Data Analyst Trainee*
+## **Willarburg Institute of Technology** — *Data Analyst Trainee*
 
 - Supported data collection, analysis, and visualization projects.
 
