@@ -26,7 +26,7 @@ I enjoy Solving Problems, simplifying data processes, and creating dashboards th
 -**SQL**:Data Extraction, Filtering, Aggregation, Joins, Date functions.
 - **Python:** Pandas, Numpy, Matplotlib, Seaborne for business and financial data analysis.
 
-**💻Additional Skills:**
+ ## **💻Additional Skills:**
 - Data Visualization and Storytelling 
 - Business Intelligence (BI) Reporting
 - Data driven Decision Making
