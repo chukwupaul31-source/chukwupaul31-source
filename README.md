@@ -9,7 +9,7 @@ I have practical experience working with **Tech Innovation Network**, where I su
 
 I enjoy Solving Problems, simplifying data processes, and creating dashboards that helps organizations to make smarter business decisions.
 
-## **Core Expertise Areas**
+## 💡**Core Expertise Areas**
 - Business Performance Analysis
 - Financial and Operational Reporting
 -Dashboard Design and KPI Tracking
@@ -20,28 +20,28 @@ I enjoy Solving Problems, simplifying data processes, and creating dashboards th
 -Process Optimization and Decision Support.
 -Training and Mentoring in Data Analytics
 
-## **Technical Skills And Tools**
+## 🛠️**Technical Skills And Tools**
 - **Microsoft Excl**:Advanced formulas, Pivot Tables, Charts, Dashboards, Power Query.
 - **Microsoft Power BI:** Data Modelling, DAX, Power Query, Report designs, KPI dashboards.
 -**SQL**:Data Extraction, Filtering, Aggregation, Joins, Date functions.
 - **Python:** Pandas, Numpy, Matplotlib, Seaborne for business and financial data analysis.
 
-**Additional Skills:**
+**💻Additional Skills:**
 - Data Visualization and Storytelling 
 - Business Intelligence (BI) Reporting
 - Data driven Decision Making
 - Microsoft Office Suite (Word, Power Point presentation)
 - Critical thinking and Problem Solving.
 
-## **Education And Certification.**
+## **🎓Education And Certification.**
 - **Certificate in Data Analytics** - *Willaburg Institute of Computing and Technology*
 *🏆Awarded Best Students In Data Analytics*
 - **Secondary School Education**- *Completed.*
 
 
-## **Professional Experience**
+## 💼**Professional Experience**
 
-### **Tech Innovation Network** —* Data Analyst*
+### **Tech Innovation Network** — *Data Analyst*
 
 - Collected and analyzed business data to identify key performance trends.
 
