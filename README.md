@@ -35,7 +35,7 @@ I enjoy Solving Problems, simplifying data processes, and creating dashboards th
 
 ## **Education And Certification.**
 - **Certificate in Data Analytics** - *Willaburg Institute of Computing and Technology*
-*Awarded Best Students In Data Analytics*
+*🏆Awarded Best Students In Data Analytics*
 - **Secondary School Education**- *Completed.*
 
 
