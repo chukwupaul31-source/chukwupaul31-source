@@ -4,3 +4,8 @@ I operate as a cross functional partner, providing the analytical backbone for r
 
 
 
+
+
+
+
+
