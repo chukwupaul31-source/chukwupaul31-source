@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Chukwu Paul Chiemerie
 
 
-I am a **Business and Sales Analyst**who is passionate about translating commercial complexity  and transforming raw data into meaningful insights that support strategic  business decision making and growth. With practical expertise in Excel, Microsoft Power Bi, Python, SQL, and Microsoft Power Automate,  I am specialized in developing interactive dashboards, analyzing business trends, and automating reports to enhance business productivity and profitability.
+I am a **Business and Sales Analyst** who is passionate about translating commercial complexity  and transforming raw data into meaningful insights that support strategic  business decision making and growth. With practical expertise in Excel, Microsoft Power Bi, Python, SQL, and Microsoft Power Automate,  I am specialized in developing interactive dashboards, analyzing business trends, and automating reports to enhance business productivity and profitability.
 
 I hold a certificate from **Willa-burg Institute of Technology and have gained valuable experience working  Tech Innovative Network (Volunteer) and Willa-burg Institute**, where I  was also recognized with an **Award as the Best Students in **Data Analytics** for outstanding performance.
 
